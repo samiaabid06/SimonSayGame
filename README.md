@@ -32,10 +32,10 @@ The project consists of the following files:
   - **Responsive Design:** The game is designed to be responsive. On smaller screens (less than 600px), a "Start" button will be displayed. Once the game starts, the button will disappear, and the level information will be displayed. If the user inputs a wrong sequence, the game over message will be displayed, and the user can restart the game by pressing the "Start" button again.
 
 ## Authors
-
+samiaabid06 (https://github.com/samiaabid06/SimonSayGame)
 
 ## Acknowledgments
-- Thanks to [githubs pages]() for providing a platform to deploy my website.
+- Thanks to [githubs pages](https://github.com/samiaabid06/SimonSayGame) for providing a platform to deploy my website.
 - Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
 ## Feedback
